@@ -17,10 +17,13 @@ public:
            }
            
        }
+       
        if(N>1)
        
            largestPrime=N;
            
+           
        return largestPrime;
    }
+   
 };
